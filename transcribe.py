@@ -1,4 +1,5 @@
 # 86e37e2173da469d88e8084f43efa839
+#hindi audio to hindi transcript
 import assemblyai as aai
 
 aai.settings.api_key = "86e37e2173da469d88e8084f43efa839"
